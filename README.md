@@ -4,4 +4,4 @@
 
 #### As ferramentas utilizadas foram HTML, CSS e JavaScript.
 
-![image](https://user-images.githubusercontent.com/75373785/102623462-4575b400-4121-11eb-801d-ea0a5b67c4a9.png)
+![image](https://user-images.githubusercontent.com/75373785/106193520-643d8080-618c-11eb-94af-4a2d30fcca07.png)
